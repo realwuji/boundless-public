@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Boundless has moved
+    url: https://github.com/BoundlessReader/Boundless/issues/new/choose
+    about: This repository is no longer used. Report issues and ask for features in BoundlessReader/Boundless.
